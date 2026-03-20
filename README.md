@@ -11,16 +11,16 @@
 
 | File | Section | Summary |
 |------|---------|---------|
-| [s1-project-header.md](s1-project-header.md) | §1 · Project Header | Fixed reference data — address, APN, codes, dimensions |
-| [s2-current-status.md](s2-current-status.md) | §2 · Current Status & Gates | Active status, gate conditions, confirmed existing conditions |
-| [s3-scope-of-work.md](s3-scope-of-work.md) | §3 · Scope of Work | Modifications §3.A–§3.G — specs + rationale |
-| [s4-phase-plan.md](s4-phase-plan.md) | §4 · Phase Plan & Sequencing | 14 phases, hold points, stop conditions, sequencing rules |
-| [s5-parts-materials.md](s5-parts-materials.md) | §5 · Parts & Materials List | 49 line items linked to modifications |
-| [s6-open-questions.md](s6-open-questions.md) | §6 · Open Questions | 15 tracked questions — 4 BLOCKING, 8 PRE-ORDER, 3 FIELD |
-| [s7-risk-register.md](s7-risk-register.md) | §7 · Risk Register | 8 active risks — 4 HIGH, 4 MED |
-| [s8-permits.md](s8-permits.md) | §8 · Permits & Licensing | 13 work types with permit and professional requirements |
-| [s9-safety-notes.md](s9-safety-notes.md) | §9 · Safety Notes | 7 hazard categories |
-| [s10-codes-standards.md](s10-codes-standards.md) | §10 · Codes & Standards | 24 codes, ANSI/ASTM standards, and regulatory citations |
+| [s1-project-header.md](docs/s1-project-header.md) | §1 · Project Header | Fixed reference data — address, APN, codes, dimensions |
+| [s2-current-status.md](docs/s2-current-status.md) | §2 · Current Status & Gates | Active status, gate conditions, confirmed existing conditions |
+| [s3-scope-of-work.md](docs/s3-scope-of-work.md) | §3 · Scope of Work | Modifications §3.A–§3.G — specs + rationale |
+| [s4-phase-plan.md](docs/s4-phase-plan.md) | §4 · Phase Plan & Sequencing | 14 phases, hold points, stop conditions, sequencing rules |
+| [s5-parts-materials.md](docs/s5-parts-materials.md) | §5 · Parts & Materials List | 49 line items linked to modifications |
+| [s6-open-questions.md](docs/s6-open-questions.md) | §6 · Open Questions | 15 tracked questions — 4 BLOCKING, 8 PRE-ORDER, 3 FIELD |
+| [s7-risk-register.md](docs/s7-risk-register.md) | §7 · Risk Register | 8 active risks — 4 HIGH, 4 MED |
+| [s8-permits.md](docs/s8-permits.md) | §8 · Permits & Licensing | 13 work types with permit and professional requirements |
+| [s9-safety-notes.md](docs/s9-safety-notes.md) | §9 · Safety Notes | 7 hazard categories |
+| [s10-codes-standards.md](docs/s10-codes-standards.md) | §10 · Codes & Standards | 24 codes, ANSI/ASTM standards, and regulatory citations |
 
 ---
 
