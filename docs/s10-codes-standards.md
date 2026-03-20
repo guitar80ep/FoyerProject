@@ -16,10 +16,11 @@ _Sort: alphabetical by Code / Standard name._
 | ANSI A137.1 F-rated | Frost-resistant tile classification | §3.A |
 | ANSI A137.1 Group V | Porcelain tile water absorption ≤0.5% (Impervious) | §3.A, §5 |
 | ASCE 7-22 | Minimum Design Loads and Associated Criteria for Buildings and Other Structures — wind and seismic load basis underlying CBC Chapter 16 | §3.E, §4.4 |
-| ASTM A240/A276 | Standard specifications for stainless steel plate, sheet, strip, and bar (316 SS) | §3.B, §3.D, §3.E, §5 |
-| ASTM C920 Class 50 | Standard specification for elastomeric joint sealants (marine silicone) | §3.A, §3.F, §5 |
+| ASTM A240/A276 | Standard specifications for stainless steel plate, sheet, strip, and bar (316 SS) | §3.B, §3.D, §5 |
+| ASTM C920 Class 25 | Standard specification for elastomeric joint sealants (polyurethane) — flashing lap joints and penetrations | §3.H, §5 |
+| ASTM C920 Class 50 | Standard specification for elastomeric joint sealants (marine silicone) — movement joints, coping perimeter, exposed terminations | §3.A, §3.F, §3.H, §5 |
 | ASTM C1325 | Standard specification for non-asbestos fiber-cement backer board | §3.B, §5 |
-| ASTM D1970 | Standard specification for self-adhering polymer modified bitumen sheet materials — roofing underlayment | §3.C, §3.F, §4.7, §5 |
+| ASTM D1970 | Standard specification for self-adhering polymer modified bitumen sheet materials — roofing underlayment and flashing integration substrate | §3.C, §3.F, §3.H, §4.7, §5 |
 | AWC NDS 2018 | National Design Specification for Wood Construction — framing member sizing, connection design, and fastener schedules | §3.B, §3.E |
 | California Business and Professions Code §7026 et seq. | Contractor license classifications — C-10 Electrical, C-39 Roofing, B General Building | §8 |
 | California Residential Code (CRC) 2022 | State residential building code — R3 occupancy provisions and prescriptive framing requirements | §1, §8 |
@@ -30,7 +31,8 @@ _Sort: alphabetical by Code / Standard name._
 | NEC 2020 / NFPA 70 | National Electrical Code as adopted by California — GFCI protection, conduit fill, and wiring methods for R occupancies | §3.G |
 | Redondo Beach Municipal Code — Title 9 (Buildings and Construction) | Local amendments to CBC; permit fees, inspection procedures, and Redondo Beach-specific requirements | §1, §2.2, §8 |
 | Redondo Beach Municipal Code — Title 10 (Zoning) | R-2 zone regulations; PC Case 03-61 CUP conditions including Condition 23 material/color sample approval | §1, §2.2, §6 |
+| SMACNA Architectural Sheet Metal Manual, 7th Ed. | Sheet Metal and Air Conditioning Contractors' National Association — governing reference for flashing geometry, lap lengths, corner treatment, fastener schedules, and dissimilar metal guidance | §3.H |
 | TCNA EJ171 | Tile Council of North America movement joint guidelines for tile installations | §3.A, §3.F |
 | Title 24 Part 3 (2022) — California Electrical Code (CEC) | California electrical standards incorporating NEC 2020 with California amendments — GFCI and wiring requirements for R occupancies | §3.G, §8 |
-| Title 24 Part 6 (2022) — California Energy Code | Building envelope, insulation, and fenestration requirements for Climate Zone 6 | §2.2 (Gate 4), §6 (Q10), §8 |
+| Title 24 Part 6 (2022) — California Energy Code | Building envelope, insulation, and fenestration requirements for Climate Zone 6 | §2.2 (Gate 4), §6 (Q12), §8 |
 | Title 24 Table 150.1-A | U-factor and solar heat gain coefficient (SHGC) requirements for exterior glazing | §8 |

@@ -36,29 +36,35 @@ _Sort: primary by Mod letter (A, B, C…), secondary alphabetical by Item within
 | 21E | C | Mechanical Seamer Rental | McElroy electric seamer — Developmental Industries | 1 rental | [TBD] | Reserve for Phase 7 dates. mcelroyseamers.com |
 | 22 | C | Roof Underlayment — Full Deck | ASTM D1970 modified bitumen self-adhering membrane | TBD sq ft | [TBD] | 97 sq ft + 15% waste min. Seams: 6″ laps. |
 | 23 | C | Synthetic Slip Sheet | Per McClelroy installation requirements | TBD sq ft | [TBD] | Between ASTM D1970 and panels. |
-| 24 | C | Parapet Base Flashing | 26-ga. copper or 316 SS, two-piece counter/base-flash | TBD LF | [TBD] | Custom fab. +10% laps. |
-| 25 | C | Gutter — 3″ Half-Round Copper | 16-oz copper, half-round profile | 230″ (20 ft) | [TBD] | Includes 10% spare for cuts. |
-| 26 | C | Gutter Hangers | Copper or 316 SS half-round hangers, 3″ | ~24–28 | [TBD] | At 10″ o.c. max along 230″ run. |
-| 27 | C | Gutter Outlet — Rain Chain | 3″ half-round copper outlet/adapter | 1 | [TBD] | Confirm compatibility with retention clip. |
-| 28 | C | Rain Chain — Copper Cup Style | Copper cup-style chain | 1 chain | [TBD] | Measure drop height. Order next length UP. |
-| 29 | C | Rain Chain Retention Clip | Copper or 316 SS, fits 3″ half-round outlet | 1 | [TBD] | Secures chain against wind. |
-| 30 | C | Overflow Scupper | Small copper scupper, high/building side, 2″ above gutter inlet | 1 | [TBD] | Sized for 97 sq ft overflow. |
-| 31 | C | River Rock — Rain Chain Bed | ½″–¾″ smooth river rock | ~0.5 cu ft | [TBD] | Confirm bed size → see §6. |
-| 32 | C | Filter Fabric | Non-woven geotextile, 3.0 oz/yd² | ~4 sq ft | [TBD] | Line rock bed before filling. |
-| 33 | D | Thermo Radiata Pine Boards | Maximo, 5/4″ or 1″ nominal T&G or shiplap | TBD sq ft | [TBD] | +15% for cuts. Specialty product — quote early. |
-| 34 | D | 316 SS Hidden Clip System | Ipe Clip Extreme (316 SS) or Maximo equiv. | TBD clips | [TBD] | ~1 clip per 12–16″ board run. |
-| 35 | D | Soffit Framing — PT | PT 2×4 ledger + PT 2×2 furring at 16″ o.c. | TBD LF | [TBD] | Measure archway perimeter and span. |
-| 36 | D | 316 SS Screws — Soffit | 316 SS, length for furring gauge | TBD boxes | [TBD] | No zinc, no 304 SS, no galvanized. |
-| 37 | D | Penetrating Oil Finish (optional) | Rubio Monocoat or Sansin ENV, UV-stable | 1 liter | [TBD] | Only if warm brown elected. Apply pre-install. |
-| 38 | F | Coping Flashing | 26-ga. copper or 316 SS, turned up on both parapet faces | TBD LF | [TBD] | Measure parapet perimeter top. |
-| 39 | G | Electrical Conduit — New Runs | EMT or PVC conduit | TBD LF | [TBD] | C-10 to confirm if city requires. |
-| 40 | G | Electrical Wire — New Circuits | 14 AWG or 12 AWG per circuit load | TBD | [TBD] | Confirm gauge with permit office or C-10. |
-| 41 | G | GFCI Outlet (replacement) | 15A or 20A GFCI duplex, weather-resistant cover | 1 | [TBD] | GFCI required for semi-outdoor location. |
-| 42 | G | Junction Boxes — Weatherproof | Weatherproof rated for foyer lighting and outlet | TBD | [TBD] | Locations based on circuit routing. |
-| 43 | G | Low-Voltage Cable | Cat6/Cat6A ethernet; 18/2 doorbell wire | TBD LF | [TBD] | Route during framing. Not permit-required. |
-| 44 | All | 316 SS Framing Nails/Screws | 316 SS, multiple lengths | Assorted | [TBD] | All exterior framing. No zinc-plated. |
-| 45 | All | Wet Tile Saw Rental | Large-format continuous-rim diamond blade for porcelain | 1 rental | [TBD] | ~$80–150/day. |
-| 46 | All | Sheet Metal Bending Brake | Rental or purchase | 1 | [TBD] | For base flashing and coping flashing fab. |
-| 47 | All | Laser Level | Rental if not owned | 1 | [TBD] | Gutter slope layout and parapet elevation. |
-| 48 | All | PPE & Consumables | N95/P100 respirators, safety glasses, knee pads, cut-resistant gloves, mixing gear | Assorted | [TBD] | Per §9 safety requirements. |
-| 49 | All | Contingency (20%) | Material overruns, unexpected structural needs, tool additions | Budget item | [TBD] | 20–30% recommended for structural contingency. |
+| 24 | C | Gutter — 4″ K-Style Aluminum Kynar | Kynar 500 / PVDF coating, Matte Black, 4″ K-style profile | ~230″ (20 LF) | [TBD] | Confirm Kynar 500 (not polyester) in writing from supplier. Specialty order — confirm lead time. |
+| 25 | C | Gutter Hangers — Aluminum Hidden | Aluminum hidden hanger with neoprene washer face, 4″ K-style | ~12 | [TBD] | At 24″ o.c. max along 230″ run. Aluminum screws with neoprene washers. |
+| 26 | C | Gutter Outlet — K-Style | K-style aluminum outlet, Matte Black, compatible with rain chain triangular clip | 1 | [TBD] | Confirm Monarch Abode triangular clip fits without adapter before ordering. |
+| 27 | C | Rain Chain — Aluminum Multi Cube | Monarch Abode SKU #18107, 16-ga. aluminum, black powder-coat, cube cup-style, 8.5 ft | 1 chain | [TBD] | Measure drop height first — order additional unit if drop >8.5 ft. |
+| 28 | C | Rain Chain Extension | Monarch Abode aluminum multi cube extension unit | 1 (if needed) | [TBD] | Only if measured drop height exceeds 8.5 ft. |
+| 29 | C | Overflow Scupper | Aluminum Kynar, Matte Black, high/building side, 2″ above gutter inlet | 1 | [TBD] | Sized for 97 sq ft overflow. Custom fab or stock. |
+| 30 | C | River Rock — Rain Chain Bed | ½″–¾″ smooth river rock | ~0.5 cu ft | [TBD] | Confirm bed size → see §6. |
+| 31 | C | Filter Fabric | Non-woven geotextile, 3.0 oz/yd² | ~4 sq ft | [TBD] | Line rock bed before filling. |
+| 32 | D | Thermo Radiata Pine Boards | Maximo, 5/4″ or 1″ nominal T&G or shiplap | TBD sq ft | [TBD] | +15% for cuts. Specialty product — quote early. |
+| 33 | D | 316 SS Hidden Clip System | Ipe Clip Extreme (316 SS) or Maximo equiv. | TBD clips | [TBD] | ~1 clip per 12–16″ board run. |
+| 34 | D | Soffit Framing — PT | PT 2×4 ledger + PT 2×2 furring at 16″ o.c. | TBD LF | [TBD] | Measure archway perimeter and span. |
+| 35 | D | 316 SS Screws — Soffit | 316 SS, length for furring gauge | TBD boxes | [TBD] | No zinc, no 304 SS, no galvanized. |
+| 36 | D | Penetrating Oil Finish (optional) | Rubio Monocoat or Sansin ENV, UV-stable | 1 liter | [TBD] | Only if warm brown elected. Apply pre-install. |
+| 37 | F | Coping Flashing | Per §3.H spec — 0.024″ aluminum, Kynar 500, Antique White/Classic Ivory | TBD LF | [TBD] | Measure parapet perimeter top. Pre-formed inside corners — do not field-form. |
+| 38 | G | Electrical Conduit — New Runs | EMT or PVC conduit | TBD LF | [TBD] | C-10 to confirm if city requires. |
+| 39 | G | Electrical Wire — New Circuits | 14 AWG or 12 AWG per circuit load | TBD | [TBD] | Confirm gauge with permit office or C-10. |
+| 40 | G | GFCI Outlet (replacement) | 15A or 20A GFCI duplex, weather-resistant cover | 1 | [TBD] | GFCI required for semi-outdoor location. |
+| 41 | G | Junction Boxes — Weatherproof | Weatherproof rated for foyer lighting and outlet | TBD | [TBD] | Locations based on circuit routing. |
+| 42 | G | Low-Voltage Cable | Cat6/Cat6A ethernet; 18/2 doorbell wire | TBD LF | [TBD] | Route during framing. Not permit-required. |
+| 43 | H | Base Flashing — Aluminum Kynar | Per §3.H spec — 0.032″ aluminum, Kynar 500, Antique White/Classic Ivory | TBD LF | [PENDING-SE] | Measure parapet perimeter at roof-to-parapet transition. SE to confirm fastener pull-out spec. |
+| 44 | H | Counter-Flashing — Aluminum Kynar | Per §3.H spec — 0.032″ aluminum, Kynar 500, Antique White/Classic Ivory | TBD LF | [PENDING-SE] | Laps over base flashing min. 4″. Measure after base flashing installed. |
+| 45 | H | Pre-Formed Inside Corner Units | Aluminum Kynar 500, Antique White/Classic Ivory, compatible with 0.032″ base flashing | TBD units | [TBD] | One per inside parapet corner. Do not field-form inside corners. |
+| 46 | H | Aluminum Blind Rivets — Flashing Laps | Aluminum mandrel, 3/16″ diameter, ≥3/8″ washer face | TBD boxes | [TBD] | At 6″ o.c. all lap joints. |
+| 47 | H | Aluminum Screws — Flashing to Substrate | 6061 alloy or equiv., #10 × 1-1/2″ min., neoprene bonded washer | TBD boxes | [PENDING-SE] | Spacing per SE wind uplift confirmation — preliminary 6″ o.c. |
+| 48 | H | Polyurethane Sealant — Flashing Laps | ASTM C920 Class 25 polyurethane (e.g., Tremco Dymonic or equiv.) | TBD tubes | [TBD] | Continuous bead in every lap joint before fastening. |
+| 49 | H | Kynar Touch-Up Paint / Edge Sealant | Compatible with Kynar 500 aluminum — supplier to confirm | 1–2 cans | [TBD] | Treat ALL field-cut edges before installation — mandatory in coastal environment. |
+| 50 | All | Aluminum Screws — General Exterior | Aluminum alloy, multiple lengths, neoprene bonded washers | Assorted | [TBD] | All exterior aluminum flashing and gutter work. No zinc, no SS. |
+| 51 | All | Wet Tile Saw Rental | Large-format continuous-rim diamond blade for porcelain | 1 rental | [TBD] | ~$80–150/day. |
+| 52 | All | Sheet Metal Bending Brake | Rental or purchase — capable of 0.032″ aluminum | 1 | [TBD] | For base flashing and coping flashing field fabrication. |
+| 53 | All | Laser Level | Rental if not owned | 1 | [TBD] | Gutter slope layout and parapet elevation. |
+| 54 | All | PPE & Consumables | N95/P100 respirators, safety glasses, knee pads, cut-resistant gloves, mixing gear | Assorted | [TBD] | Per §9 safety requirements. |
+| 55 | All | Contingency (20%) | Material overruns, unexpected structural needs, tool additions | Budget item | [TBD] | 20–30% recommended for structural contingency. |
