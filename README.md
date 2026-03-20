@@ -2,7 +2,7 @@
 
 **2022 Morgan Lane · Redondo Beach, CA 90278 · Los Angeles County**
 
-*Consolidated v1.0 · March 2026 · Replaces ProjectPlan v4.0 + ContextDocument v2.0*
+*Consolidated v1.1 · March 2026 · §10 expanded with full code set; manufacturer specs moved to §3.C*
 
 ---
 
@@ -12,7 +12,7 @@
 |--------------------|-------|
 | Address            | 2022 Morgan Lane, Redondo Beach, CA 90278 |
 | APN                | 4159-016-009 (Redondo Villa Tract, Lot 1, Block 109) |
-| Applicable Code    | CBC 2022, Title 24 Part 6 (2022), Redondo Beach Municipal Code |
+| Applicable Code    | CBC 2022, CRC 2022, Title 24 Parts 3 & 6 (2022), Redondo Beach Municipal Code |
 | Building Type      | Type V-N wood frame, fire sprinklers, R3/U1 occupancy, two-story + semi-subterranean parking |
 | Foyer Footprint    | L-shaped: Main body 65 sq ft + Archway 32 sq ft = 97 sq ft total |
 | Gutter Run         | ~230″ (19.2 ft) along street-facing low side of L-shape |
@@ -67,7 +67,7 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 |---------------|-------|
 | Description   | Replace failed travertine with rectified porcelain tile on all wall surfaces and parapet faces |
 | Key Specs     | Tile: rectified porcelain, full-body, ≤0.5% absorption (ANSI A137.1 Group V, Impervious), PEI IV or V, matte/honed finish, frost-resistant (ANSI A137.1 F-rated). Format: 24″×24″ or 24″×48″ walls; 12″×24″ planters. Style: travertine-look, warm buff/ivory/gray. Thinset: ANSI A118.4 polymer-modified, 95% min. back-butter coverage. Grout: epoxy, non-porous, salt-resistant; sanded ≥1/8″ joints, unsanded <1/8″. Movement joints: TCNA EJ171, color-matched marine silicone at inside corners, wall-to-floor transitions, max 12 ft o.c. |
-| Standards     | ANSI A137.1, ANSI A118.4, TCNA EJ171, ASTM C920 Class 50 (silicone) |
+| Standards     | ANSI A108, ANSI A118.4, ANSI A137.1, ASTM C920 Class 50 (silicone), TCNA EJ171 → see §10 |
 | Status        | [TBD] — Specific tile style/color pending selection and Planning Dept. Condition 23 confirmation |
 
 > **Rationale:** Porcelain at ≤0.5% absorption eliminates the fundamental porosity failure of travertine. Visually identical to natural stone in modern large-format tiles. Sealing not required on tile face (grout joints still need sealer). Available in travertine-look finishes that satisfy Planning Condition 23 warm stone aesthetics. Alternatives rejected: sealed natural stone (sealing degrades in coastal UV/salt); ceramic tile (lower durability, higher absorption); stucco (different aesthetic, not consistent with original approval).
@@ -80,7 +80,7 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 |---------------|-------|
 | Description   | Demo to structural frame. SE assesses first. Replace rotted sheathing, damaged sill plates, wet framing. Rebuild wall assembly: sheathing → WRB → drainage mat → backer board → thinset → tile. 316 SS weep screed at all wall bases. |
 | Key Specs     | Sill plates: PT ACQ or CA-B rated lumber. All framing within 6″ of grade/concrete must be PT. Replace any member with visible rot, soft spots, or >25% section loss — full length, no splice repair. Borate treatment (Tim-bor or equiv.) on all retained framing before sheathing. Sheathing: 5/8″ CDX plywood, nailed per CBC shear wall schedule. WRB: Henry Blueskin VP100 or equiv., shingle-lapped min. 6″. Drainage mat: Benjamin Obdyke Slicker Classic, 3/8″ gap. Backer board: HardieBacker ½″ (ASTM C1325), 316 SS screws per manufacturer schedule. Weep screed: 316 SS V-notch, min. 3/4″ ground face, min. 2″ above finished paving, 316 SS fasteners at 6″ o.c. max, 6″ min. laps sealed with flashing tape. |
-| Standards     | CBC 2022 (shear wall schedule), ASTM C1325 (backer board) → see §10 |
+| Standards     | AWC NDS 2018 (member sizing), CBC 2022 Chapter 16 (SDC D), CBC 2022 Chapter 23 (shear wall schedule), ASTM C1325 (backer board) → see §10 |
 | Status        | [PENDING-SE] — Full framing scope cannot be defined until SE report is in hand |
 
 > **Rationale:** The original travertine was set directly against the substrate with no WRB, no drainage mat, and no weep screed. Any water that penetrated the stone had nowhere to go and accumulated against the wood framing. The new wall assembly creates a complete drainage plane: the WRB blocks bulk water, the drainage mat creates an air gap for water to channel downward, and the weep screed provides a defined exit point at the wall base. This is the critical assembly correction that prevents the original failure mode from recurring.
@@ -92,9 +92,9 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 | Attribute     | Value |
 |---------------|-------|
 | Description   | Flat deck re-framed to 5″ rise (½″:12″), draining toward street. McClelroy Maxima 3″ structural standing seam panels with copper half-round gutter and rain chain. |
-| Key Specs     | **Panels:** Kynar 500 Antique White / Classic Ivory, striated finish (preferred — reduces oil canning visibility). 11–12 panels, 18″ width, 126″ length. Single 90° mechanical seam — hydrostatic system rated to ¼″:12″ minimum. Maxima 3 return-leg seam geometry (highest uplift performer in Maxima family, 200+ mph rated). **Clips:** Fixed low clips, 1′ o.c. uniform across entire roof (~110 clips). Confirm clip part number and FM/UL uplift compliance with McElroy rep in writing. ZAC fastener coastal suitability to be confirmed — SS upgrade at eave/closure locations if required for <1 mile from ocean. **Accessories:** Eave plate (McElroy-supplied, per detail C-2). Outside closures (~12, confirm installation direction). Double bead tape sealant 3/16″ × 7/8″ continuous + pigtails. **Substrate:** 5/8″ CDX plywood deck + ASTM D1970 self-adhering underlayment + synthetic slip sheet + panels. Rigid insulation only if Title 24 requires. **Seamer:** McElroy electric seamer rented from Developmental Industries (mcelroyseamers.com) — no substitutions, voids all warranties. **Slope:** ½″:12″ (5″ rise over 122″ run). Building/interior side HIGH, street side LOW. Actual slant length = 122.1″; panel length stays at 126″. **Gutter:** 3″ half-round copper (16-oz), ~230″ run along street-facing low edge. Hangers at 10″ o.c. max (~24–28 hangers). Sizing: 97 sq ft × 2″/hr design rain = ~0.023 cu ft/sec peak — 3″ half-round handles with margin. **Overflow:** Copper scupper on high/building side, set 2″ above gutter inlet elevation. **Rain chain:** Copper cup-style with retention clip at gutter outlet. Terminates at rock garden bed (min. 2 ft × 2 ft, 6–8″ deep, ½″–¾″ river rock over filter fabric). Drainage direction TBD → see §6. |
-| Standards     | ASTM D1970, Kynar 500 (PVDF 70% resin min.), McElroy detail C-2 → see §10 |
-| Status        | [TBD] — Panel count finalized after demo field measurements. McElroy rep confirmation outstanding → see §6. **McElroy Rep Pre-Order Checklist (complete before ordering):** (1) 11–12 panels, 18″ width, 126″ length, Antique White/Classic Ivory Kynar 500, striated; (2) fixed low clips — confirm part #, ~110 count, FM/UL uplift compliance in writing; (3) eave plate quantity for both zones; (4) outside closures (~12) — confirm installation direction; (5) double bead tape sealant quantity; (6) ZAC fastener coastal suitability — confirm in writing or upgrade to SS; (7) mechanical seamer rental reservation at mcelroyseamers.com; (8) weathertightness warranty — confirm certified installer requirement; (9) written confirmation ½″:12″ slope above ¼″:12″ hydrostatic minimum — for permit file; (10) confirm 18″ Maxima 3 availability and lead time at Peachtree City, GA. |
+| Key Specs     | **Panels:** Kynar 500 / PVDF 70% resin min. coating, Antique White / Classic Ivory, striated finish (preferred — reduces oil canning visibility). 11–12 panels, 18″ width, 126″ length. Single 90° mechanical seam — hydrostatic system rated to ¼″:12″ minimum. Maxima 3 return-leg seam geometry (highest uplift performer in Maxima family, 200+ mph rated). **Clips:** Fixed low clips, 1′ o.c. uniform across entire roof (~110 clips). Confirm clip part number and FM/UL uplift compliance with McElroy rep in writing. ZAC fastener coastal suitability to be confirmed — SS upgrade at eave/closure locations if required for <1 mile from ocean. **Accessories:** Eave plate (McElroy-supplied, per McElroy Detail C-2). Outside closures (~12, confirm installation direction per McElroy Detail C-2). Double bead tape sealant 3/16″ × 7/8″ continuous + pigtails per McElroy Detail C-2. **Substrate:** 5/8″ CDX plywood deck + ASTM D1970 self-adhering underlayment + synthetic slip sheet + panels. Rigid insulation only if Title 24 requires. **Seamer:** McElroy electric seamer rented from Developmental Industries (mcelroyseamers.com) — no substitutions, voids all warranties. **Slope:** ½″:12″ (5″ rise over 122″ run). Building/interior side HIGH, street side LOW. Actual slant length = 122.1″; panel length stays at 126″. **Gutter:** 3″ half-round copper (16-oz), ~230″ run along street-facing low edge. Hangers at 10″ o.c. max (~24–28 hangers). Sizing: 97 sq ft × 2″/hr design rain = ~0.023 cu ft/sec peak — 3″ half-round handles with margin. **Overflow:** Copper scupper on high/building side, set 2″ above gutter inlet elevation. **Rain chain:** Copper cup-style with retention clip at gutter outlet. Terminates at rock garden bed (min. 2 ft × 2 ft, 6–8″ deep, ½″–¾″ river rock over filter fabric). Drainage direction TBD → see §6. |
+| Standards     | ASTM D1970 (self-adhering underlayment) → see §10 for governmental standards. **Manufacturer references (installation only):** Kynar 500 / PVDF 70% resin min. (panel coating specification — 30+ year coastal rated); McElroy Detail C-2 (eave plate, outside closure, and sealant tape installation); FM/UL uplift compliance per McElroy clip confirmation letter. |
+| Status        | [TBD] — Panel count finalized after demo field measurements. McElroy rep confirmation outstanding → see §6. **McElroy Rep Pre-Order Checklist (complete before ordering):** (1) 11–12 panels, 18″ width, 126″ length, Antique White/Classic Ivory Kynar 500, striated; (2) fixed low clips — confirm part #, ~110 count, FM/UL uplift compliance in writing; (3) eave plate quantity for both zones; (4) outside closures (~12) — confirm installation direction per Detail C-2; (5) double bead tape sealant quantity; (6) ZAC fastener coastal suitability — confirm in writing or upgrade to SS; (7) mechanical seamer rental reservation at mcelroyseamers.com; (8) weathertightness warranty — confirm certified installer requirement; (9) written confirmation ½″:12″ slope above ¼″:12″ hydrostatic minimum — for permit file; (10) confirm 18″ Maxima 3 availability and lead time at Peachtree City, GA. |
 
 > **Rationale:** Structural standing seam is the highest-performing low-slope roofing system available. The 3″ rib height channels water efficiently even at minimal slope. Hidden clip fasteners eliminate penetrations through the panel face — zero exposed fasteners in the roof field. Kynar 500 coating is rated for 30+ years in coastal environments (standard polyester begins chalking within 5–10 years in salt air). The original flat tiled roof had no proper membrane beneath it; tile joints on a low-slope roof are not waterproof. Alternatives rejected: modified bitumen membrane (requires replacement every 15–20 years); TPO/EPDM (less elegant, visible seams); barrel tile (too heavy for existing framing, wrong aesthetic).
 
@@ -108,7 +108,7 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 |---------------|-------|
 | Description   | Thermally modified radiata pine on archway soffit. 316 SS hidden clip system. PT framing with 316 SS fasteners. |
 | Key Specs     | Board: Maximo Thermo Radiata pine, 5/4″ or 1″ nominal T&G or shiplap (confirm profile with distributor). Clip: Ipe Clip Extreme (316 SS) or Maximo-specified equivalent, routed groove in board edge, no face fasteners. Clip spacing: 12–16″ o.c. per manufacturer. Fasteners: 316 SS only — no zinc, no chrome, no 304 SS. Framing: PT 2×4 perimeter ledger + PT 2×2 furring at 16″ o.c. Ventilation gap: min. 3/4″ between back face of boards and substrate. Finish: unfinished = silver-gray patina (no maintenance), OR oil finish (Rubio Monocoat or Sansin ENV, UV-stable) = maintains warm honey-brown; decide before installation. Board removal: slide laterally to disengage clip, no tools required, boards fully reusable. |
-| Standards     | 316 SS per ASTM A276/A240 → see §10 |
+| Standards     | ASTM A276/A240 (316 SS specification) → see §10 |
 | Status        | [TBD] — Soffit finish decision pending. Distributor quote needed. |
 
 > **Rationale:** Hidden 316 SS clips provide full board-by-board maintenance access — any individual board can slide out and be replaced without tools, demolition, or damage to adjacent boards. Brad nails rejected: permanent connection, Thermo Radiata's denser structure splits on pry-out, steel brads rust and streak in salt air. Face screws rejected: visible fasteners break the clean look. Glue rejected: impossible to remove for maintenance. Thermo Radiata selected for dimensional stability and natural decay resistance without chemical treatment. Alternatives rejected: redwood (increasingly expensive, environmentally restricted); Western Red Cedar (less dimensionally stable); Ipe (very heavy, hard to work, expensive, tropical sourcing concerns); painted pine (would fail within a few years in coastal exposure).
@@ -119,7 +119,7 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 |---------------|-------|
 | Description   | Entirely new structure (no existing parapet). 8″ tall wood-framed parapet on all four sides. Street-side parapet screens gutter and metal panels from view. |
 | Key Specs     | Studs: 2×6 or 2×8 at 16″ o.c. per SE specification. Connectors: Simpson Strong-Tie LTP4 or SE-specified, connecting to roof diaphragm. Sheathing: 5/8″ CDX plywood/OSB. WRB: self-adhering, wrapped from roof side continuously over parapet top and 4″ down exterior face. Base flashing: continuous metal at roof-to-parapet transition, turned up min. 8″ on parapet interior face. Exterior face: porcelain tile cladding per §3.A. Coping: mitered porcelain per §3.F. Corners: blocking and metal strap ties for continuous load path. Top elevation: must be at a single consistent elevation around all four sides (critical for coping miters and water drainage). |
-| Standards     | CBC 2022 Chapter 16 (SDC D), SE stamped drawings required → see §10 |
+| Standards     | ASCE 7-22 (wind and seismic load basis), AWC NDS 2018 (member sizing), CBC 2022 Chapter 16 (SDC D seismic provisions), CBC 2022 Chapter 23 (wood framing), SE stamped drawings required → see §10 |
 | Status        | [PENDING-SE] — SE to specify member sizes, connector types, and quantities |
 
 > **Rationale:** A parapet provides three functions: (1) screens the standing seam panels and gutter from street view, maintaining the original stone-facade character; (2) provides supplemental wind-driven rain protection at panel seams; (3) creates a defined perimeter for the coping cap waterproofing system. As new structural elements in Seismic Design Category D, they require engineered connection to the roof diaphragm with SE stamped drawings.
@@ -130,7 +130,7 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 |---------------|-------|
 | Description   | Same porcelain tile series as walls. Sloped INWARD toward roof. Mitered at corners for monolithic appearance. |
 | Key Specs     | Material: same porcelain series as wall tile, 2″ mitered pieces cut at 45° from large-format tiles. Slope: INWARD toward roof, min. ¼″:12″ — water drains to roof surface, not exterior wall. Outer drip edge: overhangs exterior parapet face ¾″–1″, underside back-cut near outer edge to break capillary path. Inner edge: flush with or slightly past interior parapet face to sheet water onto roof. Setting mortar: epoxy mortar or ANSI A118.4 polymer-modified thinset + latex additive. Grout: epoxy, non-porous, freeze-thaw resistant. Corner miters: 45° laser-guided cuts, dry-fit and number all pieces, no gap >1/16″ at corners. Movement joints: marine silicone (color-matched) max 8–10 ft o.c. on runs; at every corner; at base of coping against wall tile. Flashing under coping: 26-ga. copper or 316 SS base flashing under coping mortar bed, turned up on both faces, integrates with ASTM D1970 underlayment — the flashing is the waterproofing, the coping is the finish. |
-| Standards     | ANSI A118.4, ASTM C920 Class 50, ASTM D1970 → see §10 |
+| Standards     | ANSI A108, ANSI A118.4, ASTM C920 Class 50, ASTM D1970, TCNA EJ171 → see §10 |
 | Status        | [TBD] — Pending tile selection and parapet framing completion |
 
 > **Rationale:** Coping must slope toward the roof (inward) to direct rain to the drainage system rather than down the exterior wall face. The miter cut at corners creates a seamless, monolithic appearance that reads as a solid stone cap from street level — consistent with the original architecture's character. Mitered porcelain conceals all metal flashings and waterproofing from view. This is the highest-skill tile task on the project. Alternatives rejected: metal coping (utilitarian, inconsistent with stone character); bullnose tile cap (visible horizontal joint collects dirt and moisture); precast concrete coping (heavy, less precise at corners).
@@ -140,8 +140,8 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 | Attribute     | Value |
 |---------------|-------|
 | Description   | Relocate lighting, doorbell, ethernet, and outlet circuits during framing phase. Restore at project completion. |
-| Key Specs     | Pre-demo: photograph and map all existing conduit, junction boxes, and low-voltage runs. Confirm breaker assignments. Demo protection: cap and label all live circuits before demolition. Relocation: route new conduit (EMT or Schedule 40 PVC — not NM sheathed cable) and wiring in new wall assembly before sheathing is closed. Junction boxes must remain accessible after tile installation. GFCI protection required for outlet in this semi-outdoor location. Low-voltage: Cat6/Cat6A ethernet + 18/2 doorbell wire, routed during framing phase. |
-| Standards     | CBC 2022 electrical provisions, GFCI per NEC → see §10 |
+| Key Specs     | Pre-demo: photograph and map all existing conduit, junction boxes, and low-voltage runs. Confirm breaker assignments. Demo protection: cap and label all live circuits before demolition. Relocation: route new conduit (EMT or Schedule 40 PVC — not NM sheathed cable) and wiring in new wall assembly before sheathing is closed. Junction boxes must remain accessible after tile installation. GFCI protection required for outlet in this semi-outdoor location. Low-voltage: Cat6/Cat6A ethernet + 18/2 doorbell wire, routed during framing phase. Light fixtures in enclosed cavities: IC-rated if insulation contact possible (CBC §410 / CEC). |
+| Standards     | CBC 2022 Section 410 (IC-rated fixtures), NEC 2020 / NFPA 70 (GFCI, conduit fill, wiring methods), Title 24 Part 3 (2022) / California Electrical Code (CEC) → see §10 |
 | Status        | [TBD] — Pending confirmation of homeowner permit pathway vs. C-10 requirement |
 
 > **Rationale:** All new wiring runs in conduit (not NM cable) to protect wiring from the moisture environment and allow future wire replacement without opening walls. The electrical permit pathway must be confirmed with Redondo Beach B&S before demo — if a C-10 is required, only the electrician performs the electrical work; all other trades remain DIY.
@@ -305,9 +305,9 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 | 20 | A,F | Closed-Cell Backer Rod | Polyethylene, 3/8″ diameter | TBD LF | [TBD] | All movement joints before silicone. |
 | 21 | C | McClelroy Maxima 3″ Panels | Kynar 500 Antique White/Classic Ivory, 18″ width, 126″ length, striated | 11–12 panels | [TBD] | 4–6 week lead time. Order during Phase 4. |
 | 21A | C | Maxima Fixed Low Clips | McElroy-specified, direct-deck, 1′ o.c. uniform | ~110 clips | [TBD] | Confirm part # and FM/UL compliance in writing. |
-| 21B | C | Maxima Eave Plate | McElroy-supplied per detail C-2 | TBD LF | [TBD] | Both main body + archway gutter edges. |
-| 21C | C | Maxima Outside Closures | Standard or Zee (confirm install direction) | ~12 units | [TBD] | One per panel at eave. |
-| 21D | C | Double Bead Tape Sealant | McElroy 3/16″ × 7/8″ | TBD rolls | [TBD] | Continuous eave run + pigtails per detail C-2. |
+| 21B | C | Maxima Eave Plate | McElroy-supplied per Detail C-2 | TBD LF | [TBD] | Both main body + archway gutter edges. |
+| 21C | C | Maxima Outside Closures | Standard or Zee (confirm install direction per Detail C-2) | ~12 units | [TBD] | One per panel at eave. |
+| 21D | C | Double Bead Tape Sealant | McElroy 3/16″ × 7/8″ | TBD rolls | [TBD] | Continuous eave run + pigtails per Detail C-2. |
 | 21E | C | Mechanical Seamer Rental | McElroy electric seamer — Developmental Industries | 1 rental | [TBD] | Reserve for Phase 7 dates. mcelroyseamers.com |
 | 22 | C | Roof Underlayment — Full Deck | ASTM D1970 modified bitumen self-adhering membrane | TBD sq ft | [TBD] | 97 sq ft + 15% waste min. Seams: 6″ laps. |
 | 23 | C | Synthetic Slip Sheet | Per McClelroy installation requirements | TBD sq ft | [TBD] | Between ASTM D1970 and panels. |
@@ -347,18 +347,18 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 | 1 | Structural Assessment | Has a licensed S.E. physically inspected the foyer and issued a written report identifying the root cause of deflection and full structural repair scope? | Gating event for entire project. Without SE report, repair scope cannot be defined, permits cannot be submitted, re-framing cannot begin. | [BLOCKING] |
 | 2 | Planning Condition 23 | Does the original 2003 Condition 23 still apply? Is formal design review required before permits? | If yes, material samples must be submitted and approved before permits — adds time. | [BLOCKING] |
 | 3 | Foyer Field Dimensions | What are exact field-measured dimensions: wall heights, parapet perimeter, archway soffit area, rain chain drop height? | All material quantities require accurate measurements. Do not order in bulk from estimates. | [BLOCKING] |
-| 4 | Tile Selection | Which specific porcelain tile (style, color, format) for walls and coping? | Evaluate 3–4 samples in outdoor Blossom Lane light alongside McClelroy panel and Thermo Radiata samples. Confirm with Planning Dept. | [PRE-ORDER] |
-| 5 | Metal Panel Color | Which Kynar 500 color for McClelroy Maxima panels? | Evaluate physical panel sample in outdoor light alongside tile. Must work with tile and copper patina. | [PRE-ORDER] |
-| 6 | Soffit Finish | Thermo Radiata: unfinished (silver-gray patina) or oil finish (warm honey-brown)? | If oil: apply before installation. Decision before boards arrive on site. | [PRE-ORDER] |
+| 4 | Electrical Permit | Does Redondo Beach B&S allow homeowner electrical permits for this R3/U1 structure? | If C-10 required, only electrical work is contracted; all other work remains DIY. | [BLOCKING] |
+| 5 | McElroy Rep Confirmation | Written confirmation of: clip part #, 1′ o.c. FM/UL compliance, ZAC coastal suitability, eave plate qty, closure direction, striated sample, lead time, seamer reservation? | Do not order panels without written confirmation. | [PRE-ORDER] |
+| 6 | Metal Panel Color | Which Kynar 500 color for McClelroy Maxima panels? | Evaluate physical panel sample in outdoor light alongside tile. Must work with tile and copper patina. | [PRE-ORDER] |
 | 7 | Rain Chain Drop Height | Exact vertical drop from gutter outlet to rock garden bed surface? | Required to order correct chain length. Order next length UP from measured drop. | [PRE-ORDER] |
-| 8 | Rock Garden Drainage Direction | Does water flow away from foyer foundation AND away from Morgan/Blossom corner ROW? | If toward foundation: redesign bed location or add French drain. Coordinate with Sheet C-2 grading plan. | [PRE-ORDER] |
-| 9 | Rock Garden Bed Size | Is 2 ft × 2 ft, 6–8″ deep confirmed, or does landscape plan call for different footprint? | Determines rock, fabric, and edging quantities. | [PRE-ORDER] |
-| 10 | Title 24 Compliance | Does Redondo Beach B&S require roof insulation for Title 24 CZ6? Unconditioned semi-outdoor may be exempt. | If required: add 1.5″–2″ polyiso, upgrade to high clips, add parapet height. | [PRE-ORDER] |
-| 11 | McElroy Rep Confirmation | Written confirmation of: clip part #, 1′ o.c. FM/UL compliance, ZAC coastal suitability, eave plate qty, closure direction, striated sample, lead time, seamer reservation? | Do not order panels without written confirmation. | [PRE-ORDER] |
-| 12 | Foundation / Footing | Does SE assessment reveal footing settlement, cracking, or soil instability? | Phase 3 could significantly extend timeline and budget. | [FIELD] |
-| 13 | Shear Panels | Do any foyer walls contain shear panels part of main house LFRS? | Modifications require revised structural drawings and may affect main house lateral resistance. | [FIELD] |
-| 14 | Electrical Permit | Does Redondo Beach B&S allow homeowner electrical permits for this R3/U1 structure? | If C-10 required, only electrical work is contracted; all other work remains DIY. | [BLOCKING] |
-| 15 | Framing Extent | What is the full extent of framing replacement after demo reveals all damage? | Cannot finalize framing material quantities until demo complete. | [FIELD] |
+| 8 | Rock Garden Bed Size | Is 2 ft × 2 ft, 6–8″ deep confirmed, or does landscape plan call for different footprint? | Determines rock, fabric, and edging quantities. | [PRE-ORDER] |
+| 9 | Rock Garden Drainage Direction | Does water flow away from foyer foundation AND away from Morgan/Blossom corner ROW? | If toward foundation: redesign bed location or add French drain. Coordinate with Sheet C-2 grading plan. | [PRE-ORDER] |
+| 10 | Soffit Finish | Thermo Radiata: unfinished (silver-gray patina) or oil finish (warm honey-brown)? | If oil: apply before installation. Decision before boards arrive on site. | [PRE-ORDER] |
+| 11 | Tile Selection | Which specific porcelain tile (style, color, format) for walls and coping? | Evaluate 3–4 samples in outdoor Blossom Lane light alongside McClelroy panel and Thermo Radiata samples. Confirm with Planning Dept. | [PRE-ORDER] |
+| 12 | Title 24 Compliance | Does Redondo Beach B&S require roof insulation for Title 24 CZ6? Unconditioned semi-outdoor may be exempt. | If required: add 1.5″–2″ polyiso, upgrade to high clips, add parapet height. | [PRE-ORDER] |
+| 13 | Foundation / Footing | Does SE assessment reveal footing settlement, cracking, or soil instability? | Phase 3 could significantly extend timeline and budget. | [FIELD] |
+| 14 | Framing Extent | What is the full extent of framing replacement after demo reveals all damage? | Cannot finalize framing material quantities until demo complete. | [FIELD] |
+| 15 | Shear Panels | Do any foyer walls contain shear panels part of main house LFRS? | Modifications require revised structural drawings and may affect main house lateral resistance. | [FIELD] |
 
 ---
 
@@ -419,26 +419,33 @@ The foyer entryway is **CLOSED TO OCCUPANTS**. The garage entry is being used in
 
 | Code / Standard | Description | Where Referenced |
 |-----------------|-------------|------------------|
-| ANSI A108 | Tile installation methods | §3.A, §3.F |
-| ANSI A118.4 | Polymer-modified thinset mortar | §3.A, §3.B, §3.F, §5 |
-| ANSI A137.1 Group V | Porcelain tile water absorption ≤0.5% (Impervious) | §3.A, §5 |
+| ACI 318-19 | Building Code Requirements for Structural Concrete — footing and foundation repair design basis | §4.3 |
+| ANSI A108 | Tile installation methods and execution standards | §3.A, §3.F |
+| ANSI A118.4 | Polymer-modified thinset mortar — bond strength and flexibility requirements | §3.A, §3.B, §3.F, §5 |
 | ANSI A137.1 F-rated | Frost-resistant tile classification | §3.A |
-| ASTM A240/A276 | Stainless steel specifications (316 SS) | §3.B, §3.D, §3.E, §5 |
-| ASTM C920 Class 50 | Elastomeric sealant (marine silicone) | §3.A, §3.F, §5 |
-| ASTM C1325 | Fiber-cement backer board | §3.B, §5 |
-| ASTM D1970 | Self-adhering polymer modified bitumen sheet for roofing underlayment | §3.C, §3.F, §4.7, §5 |
-| CBC 2022 Chapter 16 | Seismic design provisions — SDC D | §1, §3.E, §4.4, §8 |
-| CBC 2022 Shear Wall Schedule | Structural sheathing nailing patterns | §3.B |
-| Kynar 500 (PVDF 70% resin) | Fluoropolymer coating for metal panels — 30+ year coastal life | §3.C |
-| McElroy Detail C-2 | Eave plate and closure installation details | §3.C, §5 |
-| NEC (National Electrical Code) | GFCI protection requirements | §3.G |
-| Redondo Beach Municipal Code | Local building and planning requirements, Condition 23 | §1, §2.2, §8 |
-| TCNA EJ171 | Movement joint guidelines for tile installations | §3.A, §3.F |
-| Title 24 Part 6 (2022) | California Energy Code — Climate Zone 6 insulation and glazing | §6 (Q10), §8 |
-| Title 24 Table 150.1-A | U-factor and SHGC requirements for exterior glazing | §8 |
+| ANSI A137.1 Group V | Porcelain tile water absorption ≤0.5% (Impervious) | §3.A, §5 |
+| ASCE 7-22 | Minimum Design Loads and Associated Criteria for Buildings and Other Structures — wind and seismic load basis underlying CBC Chapter 16 | §3.E, §4.4 |
+| ASTM A240/A276 | Standard specifications for stainless steel plate, sheet, strip, and bar (316 SS) | §3.B, §3.D, §3.E, §5 |
+| ASTM C920 Class 50 | Standard specification for elastomeric joint sealants (marine silicone) | §3.A, §3.F, §5 |
+| ASTM C1325 | Standard specification for non-asbestos fiber-cement backer board | §3.B, §5 |
+| ASTM D1970 | Standard specification for self-adhering polymer modified bitumen sheet materials — roofing underlayment | §3.C, §3.F, §4.7, §5 |
+| AWC NDS 2018 | National Design Specification for Wood Construction — framing member sizing, connection design, and fastener schedules | §3.B, §3.E |
+| California Business and Professions Code §7026 et seq. | Contractor license classifications — C-10 Electrical, C-39 Roofing, B General Building | §8 |
+| California Residential Code (CRC) 2022 | State residential building code — R3 occupancy provisions and prescriptive framing requirements | §1, §8 |
+| CARB VOC Regulations | California Air Resources Board Architectural Coatings Suggested Control Measure — limits VOC content of interior and exterior coatings | §3.G, §9 |
+| CBC 2022 Chapter 16 | Structural design loads — Seismic Design Category D load combinations and seismic detailing | §1, §3.E, §4.4, §8 |
+| CBC 2022 Chapter 23 | Wood construction — shear wall nailing schedules, prescriptive framing provisions, and lateral force-resisting system requirements | §3.B, §3.E, §4.4 |
+| CBC 2022 Section 410 | Luminaire installation — IC-rated fixture requirement where insulation contact is possible | §3.G |
+| NEC 2020 / NFPA 70 | National Electrical Code as adopted by California — GFCI protection, conduit fill, and wiring methods for R occupancies | §3.G |
+| Redondo Beach Municipal Code — Title 9 (Buildings and Construction) | Local amendments to CBC; permit fees, inspection procedures, and Redondo Beach-specific requirements | §1, §2.2, §8 |
+| Redondo Beach Municipal Code — Title 10 (Zoning) | R-2 zone regulations; PC Case 03-61 CUP conditions including Condition 23 material/color sample approval | §1, §2.2, §6 |
+| TCNA EJ171 | Tile Council of North America movement joint guidelines for tile installations | §3.A, §3.F |
+| Title 24 Part 3 (2022) — California Electrical Code (CEC) | California electrical standards incorporating NEC 2020 with California amendments — GFCI and wiring requirements for R occupancies | §3.G, §8 |
+| Title 24 Part 6 (2022) — California Energy Code | Building envelope, insulation, and fenestration requirements for Climate Zone 6 | §2.2 (Gate 4), §6 (Q10), §8 |
+| Title 24 Table 150.1-A | U-factor and solar heat gain coefficient (SHGC) requirements for exterior glazing | §8 |
 
 ---
 
-*END OF CONSOLIDATED DOCUMENT — v1.0 · March 2026*
+*END OF CONSOLIDATED DOCUMENT — v1.1 · March 2026*
 
 *2022 Morgan Lane, Redondo Beach, CA 90278 · Front Foyer Remodel*
