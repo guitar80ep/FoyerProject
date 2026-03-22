@@ -17,7 +17,7 @@ _Sort: alphabetical by Code / Standard name._
 | ANSI A137.1 Group V | Porcelain tile water absorption ≤0.5% (Impervious) | §3.A, §5 |
 | ASCE 7-22 | Minimum Design Loads and Associated Criteria for Buildings and Other Structures — wind and seismic load basis underlying CBC Chapter 16 | §3.E, §4.4 |
 | ASTM A240/A276 | Standard specifications for stainless steel plate, sheet, strip, and bar (316 SS) | §3.B, §3.D, §3.E, §5 |
-| ASTM C920 Class 50 | Standard specification for elastomeric joint sealants (marine silicone) | §3.A, §3.F, §5 |
+| ASTM C920 Class 50 | Standard specification for elastomeric joint sealants (marine silicone; Sika Sikaflex 1a polyurethane; Tremco Spectrem 1 Kynar-compatible sealant) | §3.A, §3.F, §5 |
 | ASTM C1325 | Standard specification for non-asbestos fiber-cement backer board | §3.B, §5 |
 | ASTM D1970 | Standard specification for self-adhering polymer modified bitumen sheet materials — roofing underlayment (reference baseline — Polyglass membrane system exceeds this spec) | §3.C, §3.F, §5 |
 | ASTM D6163 | Standard specification for SBS-modified bitumen sheet materials using glass fiber reinforcements — base ply and interply membranes (Polyglass Elastoflex SA V Plus, Elastoflex SA V) | §3.C, §5 |

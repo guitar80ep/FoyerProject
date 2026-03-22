@@ -132,12 +132,19 @@ _Do not duplicate specs from §3 or permit info from §8 — cross-reference tho
 
 ### §4.10 · Phase 10 — Coping
 
-- Dry-fit ENTIRE coping run — all four sides plus all four corners — before any mortar is mixed. Number each piece.
-- Install coping flashing under coping mortar bed.
-- Set coping in epoxy mortar at inward slope (¼″:12″ min). Verify slope with digital level/slope gauge before mortar sets.
-- Grout. Install movement joints and perimeter marine silicone.
+- Confirm base flashing is installed and membrane turn-up is fully cured before any coping work begins. Base flashing horizontal leg must be fully embedded under Polyglass base ply.
+- Dry-fit ENTIRE coping substrate pan run — all four sides plus all four corners — before installing any clips. Number each straight-run section. Confirm face legs sit flush against backer board on both interior and exterior faces.
+- Install concealed 316 SS clips per Metal-Era (or equiv.) clip schedule. No clips within 4″ of miter corner joints.
+- Install factory-mitered corner pieces first. Confirm corners are plumb and level before snapping straight runs in.
+- Snap straight-run pan sections onto clips. Seal all straight-run lap joints (min. 4″ overlap, uphill piece under downhill) with Tremco Spectrem 1 sealant. Allow to tack before proceeding.
+- Verify interior leg overlaps base flashing vertical leg by min. 3″. Apply Tremco Spectrem 1 to the lap — do not mechanically fasten through the lap.
+- **Coping pan tile-over surface prep (required):** Scarify entire top flange surface with 80-grit abrasive disc. Vacuum all swarf. Apply bonding primer (Laticrete 254 Platinum primer coat or Metal-Era-specified equiv.) per manufacturer dwell time before mortar bed.
+- Dry-fit ENTIRE porcelain coping tile run — all four sides plus all four corners — before any mortar is mixed. Number each piece. Confirm slope direction (inward, ¼″:12″ min.) will be achieved with a uniform mortar bed.
+- Mark all movement joint locations on pan top flange before mortar is mixed: every corner, base of coping against wall tile (both faces), and every 8–10 ft on straight runs.
+- Set coping in epoxy mortar. Verify inward slope with digital slope gauge before mortar sets — this cannot be corrected after cure.
+- Grout with epoxy grout. Install closed-cell backer rod then Sika Sikaflex 1a at all movement joints.
 
-> **Phase-specific safety:** Highest-skill tile task. Miter cuts must be precisely 45° — use laser-guided wet tile saw with fresh continuous-rim diamond blade. No gap >1/16″ at corners. Use shims during setting.
+> **Phase-specific safety:** Highest-skill tile task. Miter cuts must be precisely 45° — use laser-guided wet tile saw with fresh continuous-rim diamond blade. No gap >1/16″ at corners. Use shims during setting. Coping pan clips are rated for thermal cycling — do not over-tighten clips, which prevents the pan from moving as designed. Epoxy mortar and grout have a ~20–30 min working time at SoCal temperatures — mix only what can be placed and cleaned in one window.
 
 ---
 
