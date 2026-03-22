@@ -35,6 +35,7 @@ _Do not duplicate specs from §3 or permit info from §8 — cross-reference tho
 - Confirm Title 24 insulation requirement for unconditioned semi-outdoor structure.
 - Check homeowner's insurance coverage for structural damage from water infiltration before SE visit.
 - Document existing damage thoroughly with photographs and video.
+- Contact Polyglass supplier (same supplier as main roof if possible) to confirm availability and lead time for Elastoflex SA V Plus, Elastoflex SA V, and Polyfresko G SBS SA.
 
 ---
 
@@ -70,8 +71,9 @@ _Do not duplicate specs from §3 or permit info from §8 — cross-reference tho
 - Replace all damaged framing per SE scope. Install new PT sill plates. Apply borate treatment to all retained framing.
 - Re-frame roof to 5″ rise (½″:12″ slope, building side high, street side low). Snap chalk lines for high-side and low-side plate elevations before cutting.
 - Frame new 8″ parapet walls per SE drawings. Top of parapet at single consistent elevation — use laser level.
+- Frame scupper openings in street-facing parapet: primary scupper at roof low point, overflow scupper 2″ above primary. Use PT blocking around openings.
 - Install Simpson Strong-Tie connectors at correct torque/nailing spec — inspected items.
-- Order McClelroy panels during this phase — allow 4–6 week lead time.
+- Order Polyglass membrane materials during this phase — confirm lead time with supplier.
 
 > **Phase-specific safety:** Reading and executing SE stamped drawings including connector hardware schedules and nailing patterns. Sill plate layout on potentially uneven bearing surface — use laser level. Parapet stud framing at 16″ o.c. with blocking at all four corners.
 
@@ -94,13 +96,18 @@ _Do not duplicate specs from §3 or permit info from §8 — cross-reference tho
 
 ### §4.7 · Phase 7 — Sheathing & Roofing
 
-- Install plywood/OSB sheathing.
-- Install ASTM D1970 self-adhering underlayment over full roof deck. Substrate must be clean, dry, and above 40°F. In coastal morning fog, wait until mid-morning.
-- Install all parapet base flashings — most critical waterproofing detail. Base flashing turns up min. 8″ onto parapet face, integrated with ASTM D1970.
-- Install McClelroy Maxima standing seam panels. Chalk line for first panel, check square to parapet. Clip spacing must match McClelroy spec exactly.
-- Install copper gutter (hangers at 10″ o.c. max, laser level for consistent fall) and rain chain.
+- Install plywood/OSB sheathing on walls and roof deck.
+- Verify roof deck is clean, dry, smooth, and free of protruding fasteners. Deck temperature must be above 40°F — in coastal morning fog, wait until mid-morning.
+- Prime plywood deck with Polyglass Polytack SA primer if required per Polyglass technical guide.
+- Install 26-ga. black Kynar aluminum scupper pans: primary scupper pan extends min. 8″ onto roof deck surface; overflow scupper pan set 2″ above primary. Secure pans to framing before membrane application.
+- Install Polyglass three-ply self-adhered membrane system per §3.C: (1) Elastoflex SA V Plus base ply over full deck and over scupper pans, (2) Elastoflex SA V interply with staggered laps, (3) Polyfresko G SBS SA cap sheet with staggered laps. Roll all laps firmly with J-roller.
+- Turn membrane base ply up parapet faces min. 8″. Interply and cap sheet terminate at base of parapet turn-up.
+- Install all parapet base flashings — most critical waterproofing detail. 26-ga. black Kynar-coated aluminum two-piece counter/base flashing at roof-to-parapet transition, integrated with membrane turn-up.
+- Install black Kynar aluminum scupper bodies through parapet wall penetrations. Integrate with membrane and parapet WRB.
+- Attach rain chain to primary scupper spout with retention clip.
+- Water-test both scuppers before proceeding: run water from hose at roof high point, confirm drainage through primary scupper and that overflow scupper is above normal flow line.
 
-> **Phase-specific safety:** Under-clipping causes oil-canning; over-clipping prevents thermal movement and causes buckling. Parapet base flashing is the most critical waterproofing detail in the entire project. Copper sheet has sharp edges — use cut-resistant gloves.
+> **Phase-specific safety:** Self-adhered membrane bonds on contact — position carefully before pressing down. Parapet base flashing is the most critical waterproofing detail in the entire project. Cut aluminum flashing edges are sharp — use cut-resistant gloves. Membrane primer (if used) requires ventilation — apply in well-ventilated conditions.
 
 ---
 
@@ -152,10 +159,10 @@ _Do not duplicate specs from §3 or permit info from §8 — cross-reference tho
 ### §4.13 · Phase 13 — Sealants & Final
 
 - Seal all movement joints and transitions.
-- 30-min rain test: all weep screeds active, no coping joint leaks, all transitions dry.
+- 30-min rain test: primary scupper flowing freely, overflow scupper dry (confirming primary is not blocked), all weep screeds active, no coping joint leaks, all transitions dry.
 - Final City of Redondo Beach inspection.
 - Clean tile. File all warranties, product data sheets, SE report, and permit cards with property records.
-- Review and save maintenance schedule.
+- Review and save maintenance schedule. Note roof membrane recoat target at year 10–15 (Polyglass PolyBrite silicone) → see §3.C.
 
 ---
 
@@ -163,4 +170,4 @@ _Do not duplicate specs from §3 or permit info from §8 — cross-reference tho
 
 > ⛔ **STOP — PHASE 7→8→9→10 TOP-DOWN RULE:** Roofing and base flashings must be complete before wall WRB and weep screeds are installed. WRB and weep screeds must be complete before tile. Wall tile must be fully cured (72 hrs min.) before coping is set. Do not reverse or overlap these phases.
 
-> 📋 **NOTE:** Do not order bulk materials until: (1) SE report is in hand with full framing scope, (2) foyer dimensions are field-measured after demo, (3) tile and metal panel colors are confirmed with physical samples, (4) Planning Dept. Condition 23 is resolved.
+> 📋 **NOTE:** Do not order bulk materials until: (1) SE report is in hand with full framing scope, (2) foyer dimensions are field-measured after demo, (3) tile colors are confirmed with physical samples, (4) Planning Dept. Condition 23 is resolved, (5) Polyglass membrane product availability is confirmed with supplier.
